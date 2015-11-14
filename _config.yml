@@ -1,12 +1,12 @@
 # Site settings
 title: 开始使用 Ubuntu
-email: your-email@domain.com
+email: 不知道
 description: >
   写给 EFZ 信息组的 Ubuntu 入门教程。
 baseurl: "/getting-started-with-ubuntu" # the subpath of your site, e.g. /blog/
 url: "https://skyzh.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: iSkyZH
+github_username:  SkyZH
 
 # Build settings
 markdown: kramdown
