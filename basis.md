@@ -1,4 +1,4 @@
-# 基本操作
+# Ubuntu 基础与入门
 
 ## Terminal
 
@@ -14,11 +14,11 @@
 
 您需要执行以下指令改变文件的 **权限**
 
-    chmod +x install.sh
+    $ chmod +x install.sh
 
 然后执行 `install.sh`
 
-    ./install.sh
+    $ ./install.sh
 
 ## 翻墙
 

@@ -19,6 +19,7 @@ Ubuntu 是一个基于 Linux 内核的系统。在本人写此指引之时，最
 *   Python
 *   Nodejs
 *   git
+*   GNU make
 *   ...
 
 Nodejs 在几百年前对 Windows 只提供有限支持。
@@ -53,4 +54,12 @@ Linux 依然是当今世界的主流服务器操作系统。
 
 ## 指引目录
 
-给 OI 选手的指引
+### [Ubuntu 基础与入门](./basis.md)
+
+### [Ubuntu 的软件安装](./package.md)
+
+### [给 OI 选手的指引](./oi.md)
+
+## 协议
+
+本指引根据 CC0 1.0 Universal 协议共享。
