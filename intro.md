@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 开始
-permalink: /intro/
-tags: intro_page
+permalink: intro/
 ---
 
 **for EFZ 信息组**
