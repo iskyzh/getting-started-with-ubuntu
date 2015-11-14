@@ -3,8 +3,8 @@ title: 开始使用 Ubuntu
 email: your-email@domain.com
 description: >
   写给 EFZ 信息组的 Ubuntu 入门教程。
-baseurl: "https://skyzh.github.io/getting-started-with-ubuntu/" # the subpath of your site, e.g. /blog/
-url: "https://skyzh.github.io/getting-started-with-ubuntu/" # the base hostname & protocol for your site
+baseurl: "/getting-started-with-ubuntu/" # the subpath of your site, e.g. /blog/
+url: "https://skyzh.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
