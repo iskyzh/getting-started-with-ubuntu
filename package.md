@@ -1,6 +1,6 @@
 # Ubuntu 的软件安装
 
-在 Ubuntu 下，你可以从 `软件源` 安装软件，或是下载 .deb 包进行软件安装。
+在 Ubuntu 下，您可以从 `软件源` 安装软件，或是下载 .deb 包进行软件安装。
 
 ## apt-get (Advanced Package Tool)
 
@@ -74,7 +74,6 @@
     gpg: Total number processed: 1
     gpg:               imported: 1  (RSA: 1)
     OK
-
 
 ### 安装 ppa 源中的包
 
