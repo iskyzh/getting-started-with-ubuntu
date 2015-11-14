@@ -58,7 +58,7 @@ Linux 依然是当今世界的主流服务器操作系统。
 
 ## 指引目录
 
-### [Ubuntu 基础与入门]({% post_url 2015-11-14-basis %})
+### [Ubuntu 基础与入门]({{ site.baseurl }}{% post_url 2015-11-14-basis %})
 
 ### [Ubuntu 的软件安装]({{ site.url }}/package)
 
