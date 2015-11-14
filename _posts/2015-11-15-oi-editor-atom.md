@@ -1,4 +1,10 @@
-# Atom 的安装与使用
+---
+layout: post
+title:  "Atom 的安装与使用"
+date:   2015-11-15
+categories: ubuntu
+permalink: oiers/editor/atom/
+---
 
 Atom: A hackable text editor for the 21st Century
 
@@ -16,7 +22,7 @@ Atom: A hackable text editor for the 21st Century
     Processing triggers for desktop-file-utils (0.22-1ubuntu3) ...
     Processing triggers for mime-support (3.58ubuntu1) ...
 
-    您就可以在 Dash 中看到 Atom 了。
+您就可以在 Dash 中看到 Atom 了。
 
 ## 快速启动
 

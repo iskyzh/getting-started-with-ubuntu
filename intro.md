@@ -60,9 +60,9 @@ Linux 依然是当今世界的主流服务器操作系统。
 
 ### [Ubuntu 基础与入门]({{ site.baseurl }}{% post_url 2015-11-14-basis %})
 
-### [Ubuntu 的软件安装]({{ site.url }}/package)
+### [Ubuntu 的软件安装]({{ site.baseurl }}{% post_url 2015-11-15-package %})
 
-### [给 OI 选手的指引]({{ site.url }}/oi)
+### [给 OI 选手的指引]({{ site.baseurl }}{% post_url 2015-11-15-oiers %})
 
 ## 协议
 
