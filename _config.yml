@@ -1,0 +1,12 @@
+# Site settings
+title: 开始使用 Ubuntu
+email: your-email@domain.com
+description: >
+  写给 EFZ 信息组的 Ubuntu 入门教程。
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:4000/" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown

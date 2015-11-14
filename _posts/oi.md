@@ -41,3 +41,22 @@ Atom 是 Github 出品的编辑器。您需要在 [https://atom.io](Atom 官网)
 通过以下指令安装 fpc
 
     $ sudo apt-get install fpc
+
+## 编译并执行程序
+
+### C++ 程序
+
+    $ g++ a.cpp
+    $ ./a.out
+
+g++ 默认输出的可执行文件是 a.out。
+
+    $ g++ a.cpp -Wall -Wextra
+
+这样编译可以输出所有的 Warning。
+
+    $ g++ a.cpp -o b.out
+
+这样编译可以指定输出文件的目标位置。
+
+### Pascal 程序

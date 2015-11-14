@@ -1,4 +1,9 @@
-# Introduction to Ubuntu
+---
+layout: page
+title: 开始
+permalink: /intro/
+tags: intro_page
+---
 
 **for EFZ 信息组**
 
@@ -54,11 +59,11 @@ Linux 依然是当今世界的主流服务器操作系统。
 
 ## 指引目录
 
-### [Ubuntu 基础与入门](./basis.md)
+### [Ubuntu 基础与入门]({% post_url 2015-11-14-basis %})
 
-### [Ubuntu 的软件安装](./package.md)
+### [Ubuntu 的软件安装]({{ site.url }}/package)
 
-### [给 OI 选手的指引](./oi.md)
+### [给 OI 选手的指引]({{ site.url }}/oi)
 
 ## 协议
 
